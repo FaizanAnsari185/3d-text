@@ -34,7 +34,7 @@ const page = () => {
 
   return (
     <>
-      <div className="flex items-center justify-center min-h-screen bg-amber-700">
+      <div className="flex items-center justify-center min-h-screen bg-[#0a0a3c]">
         <h1
           className="text-9xl font-bold text-center text-white"
           style={style}
@@ -43,7 +43,7 @@ const page = () => {
         >
           Hover Me
           <br />
-          and see magic
+          and see magic,
           <br />
           magic happen in <br />
           real life
